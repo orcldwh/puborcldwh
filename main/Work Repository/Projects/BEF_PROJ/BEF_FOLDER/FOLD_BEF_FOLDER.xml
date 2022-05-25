@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="1MSanSFd0RPkKWS/kgI3XA==" exportKeySalt="ac0e7b3b-bc4a-47ed-90d7-cc112c41814a" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="PBdsKYwbr9AMWobUD3QJ9A==" exportKeySalt="869aa857-184e-4bc8-aae9-77af82957c77" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2022-05-24 23:34:30.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="FolderName" type="java.lang.String"><![CDATA[BEF_FOLDER]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[ce5d6c46-8b80-425c-9233-003591a584a4]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2022-05-24 23:34:30.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2022-05-25 23:19:17.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -32,7 +32,7 @@
 	<Field name="SubType" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[BEF_MAPPING]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[a97b9f37-44a5-439e-a976-b1ea9b394780]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[1ce81f6188c702f90aace7fd7a97747ca959a8f2]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[cef67d1367e61ee7eac6478879c31846a9872bf0]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_BEF_MAPPING.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
