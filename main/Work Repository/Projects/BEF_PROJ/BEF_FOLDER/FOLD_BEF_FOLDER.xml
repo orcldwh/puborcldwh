@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="RY+OJMOYGKwYA6zuCd6x1Q==" exportKeySalt="1413b093-adc4-42ec-a93c-e075103ae898" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="jhaFJzIEmVwnQ5UTbEm62g==" exportKeySalt="9b7fb2a0-4e47-498d-9edd-54d04de40088" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2022-05-24 23:34:30.0]]></Field>
@@ -12,7 +12,7 @@
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2022-05-26 22:47:19.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2022-05-26 23:08:27.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -34,6 +34,14 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[a97b9f37-44a5-439e-a976-b1ea9b394780]]></Field>
 	<Field name="Version" type="java.lang.String"><![CDATA[cef67d1367e61ee7eac6478879c31846a9872bf0]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_BEF_MAPPING.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[TESAFT_56]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[ac732e97-24ab-4a7a-a5a5-efe65e44d5f6]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[848befca5a69bc5a2fd66acf4937f4352ea43dd1]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_TESAFT_56.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
 		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
