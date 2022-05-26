@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="6MH29fCpITz1mKGNEc/NFw==" exportKeySalt="5c23e143-1df6-41a1-91b8-d52226606408" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="+Ar95LxnPOfV42lwrXzj8g==" exportKeySalt="211d5e28-f857-4178-8e5c-363a5094843e" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTrt">
 		<Field name="CleanupOnError" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="CompType" type="java.lang.String">null</Field>
@@ -12,7 +12,7 @@
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2022-05-26 23:17:35.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[8054a7aa-ed90-40ea-9356-58b8b24ed99c]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndExcludeExUnitBegin" type="java.lang.String">null</Field>
 	<Field name="IndExcludeExUnitEnd" type="java.lang.String">null</Field>
 	<Field name="IndExcludeExUnitMain" type="java.lang.String">null</Field>
@@ -24,7 +24,7 @@
 	<Field name="IndJrnMethod" type="java.lang.String">null</Field>
 	<Field name="IndSuppSetBased" type="java.lang.String">null</Field>
 	<Field name="IntgType" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IsConcurrent" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IsSeeded" type="java.lang.String">null</Field>
 	<Field name="IBaseCompKm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -43,7 +43,7 @@
 	<Field name="KmSrcTechno" type="java.lang.String">null</Field>
 	<Field name="KmTechno" type="java.lang.String">null</Field>
 	<Field name="KmVersion" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2022-05-26 23:17:35.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2022-05-26 23:39:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LkmType" type="java.lang.String">null</Field>
 	<Field name="LChecksum" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -57,7 +57,7 @@
 	<Field name="ScriptPath" type="java.lang.String">null</Field>
 	<Field name="ScOrigTrtTag" type="java.lang.String">null</Field>
 	<Field name="Subtype" type="java.lang.String">null</Field>
-	<Field name="TrtName" type="java.lang.String"><![CDATA[CHECKNEW2]]></Field>
+	<Field name="TrtName" type="java.lang.String"><![CDATA[CHECKNEW23]]></Field>
 	<Field name="TrtType" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="VariableDefs" type="java.lang.String">null</Field>
 	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
